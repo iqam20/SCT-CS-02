@@ -16,7 +16,7 @@ It supports operations like **adding/subtracting a key value to each pixel** to 
 ## 🔹 Installation
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/Image-Encryption-Tool.git
+   git clone https://github.com/SCT-CS-02.git
 2. Install dependencies:
    ```bash
    pip install pillow numpy
